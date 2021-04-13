@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces":[
+    "packages/*"
+  ],
+  "name": "vue3.0-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AimeeLichunyan/vue3.0-project.git",
+  "author": "lichunyan07",
+  "license": "MIT"
+}
